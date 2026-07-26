@@ -17,7 +17,7 @@ last_updated_by: AI Agent
 **Researcher**: AI Agent  
 **Git Commit**: `ea893a913c86be37cba0c2a61a1a50391d1bead7`  
 **Branch**: `dev_metrics`  
-**Repository**: trak (TREK Travel Planner)
+**Repository**: trek (TREK Travel Planner)
 
 ## Research Question
 
